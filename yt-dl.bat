@@ -1,0 +1,1 @@
+yt-dlp -x --ffmpeg-location "C:\Users\admin\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-6.0-full_build\bin" -o "D:\music\worship-songs\jilworship-aawitan-pupurihin" https://www.youtube.com/watch?v=pSg-S_dQtmU
